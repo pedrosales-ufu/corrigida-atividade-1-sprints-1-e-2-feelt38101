@@ -1,4 +1,4 @@
-# Sistema CRUD para Inventário de Ativos de TI - 1ºa Atividade Avaliativa - Sprints 1 e 2
+# Atualizado - Sistema CRUD para Inventário de Ativos de TI - 1ºa Atividade Avaliativa - Sprints 1 e 2
 
 Aluno: Pedro dos Santos Sales
 
