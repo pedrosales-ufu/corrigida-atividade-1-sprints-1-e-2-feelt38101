@@ -58,7 +58,7 @@ O presente repositório hospeda a minha solução para a 1ºa Atividade Avaliati
 
 ## 3. Desenvolvimento
 
-A fim de atender a todos os 11 requerimentos, dividi o desenvolvimento dessa solução em duas fases. Em um primeiro momento, busquei atender ao requisito 3 utilizando um arquivo json como banco de dados da aplicação. Em um segundo momento, para atender ao requisito 11, implementei separadamente uma versão da aplicação que utiliza o SQLite, uma biblioteca padrão da linguagem Python para a criação e gerenciamento de bancos de dados relacionais. Nesse sentido, a estrutura geral do projeto consiste em duas arquiteturas de persistência de dados que possuem 3 módulos, ou arquivos, em commum e 4 exclusivos, sendo 2 para a arquitetura baseada em json e 2 para a arquitetura baseada em SQLite.
+A fim de atender a todos os 11 requerimentos, dividi o desenvolvimento dessa solução em duas fases. Em um primeiro momento, busquei atender ao requisito 3 utilizando um arquivo json como banco de dados da aplicação. Em um segundo momento, para atender ao requisito 11, implementei separadamente uma versão da aplicação que utiliza o SQLite, uma biblioteca padrão da linguagem Python para a criação e gerenciamento de bancos de dados relacionais. Nesse sentido, a estrutura geral do projeto consiste em duas arquiteturas de persistência de dados que possuem 3 módulos, ou arquivos, em comum e 4 exclusivos, sendo 2 para a arquitetura baseada em json e 2 para a arquitetura baseada em SQLite.
 
 ### 3.1. Arquivos/Módulos Compartilhados entre Arquiteturas
 
